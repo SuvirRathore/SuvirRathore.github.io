@@ -7,14 +7,14 @@ nav: true
 nav_order: 2
 ---
 
-# Publications/preprints:
+## Publications/preprints:
 
 To be added soon :)
 
 
 
 
-# Expository Writings:
+## Expository Writings:
 
 ##### [1. The Local Langlands Correspondence for GLn]({{ '/assets/pdf/research/part-iii-essay.pdf' | relative_url }})
 
