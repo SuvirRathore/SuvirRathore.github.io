@@ -30,6 +30,8 @@ latest_posts:
 Hi! I am Suvir Rathore, currently a third year PhD student of Rong Zhou at the University of Cambridge. My research interests are in Arithmetic Geometry and Algebraic Number Theory, particularly on l-independence and varieties over finite fields.
 
 
-You can find my CV [here]({{ '/assets/pdf/cv.pdf' | relative_url }}).
+You can find my CV [here]({{ '/assets/pdf/suvir-rathore-cv-2026-09.pdf' | relative_url }}).
+
+My email is sr939@cam.ac.uk
 
 Outside of maths, I love hiking in nature and stargazing. I particularly enjoy playing cricket, badminton, and a variety of boardgames!
