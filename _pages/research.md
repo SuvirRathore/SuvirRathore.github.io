@@ -22,9 +22,9 @@ My Part III essay supervised by Dr Rong Zhou, DPMMS.
 
 ##### [2. On Three-Dimensional Geometry and Knots]({{ '/assets/pdf/research/undergraduate-essay-1.pdf' | relative_url }})
 
-My undergraduate essay supervised by Dr Gareth Wilkes, DPMMS.
+My second undergraduate essay supervised by Dr Gareth Wilkes, DPMMS.
 
 ##### 3. Belyi Correspondence: Graph Theory and Riemann Surfaces
 
-My second undergraduate essay supervised by Professor Rajesh Gopakumar, ICTS.
+My first undergraduate essay supervised by Professor Rajesh Gopakumar, ICTS.
 
