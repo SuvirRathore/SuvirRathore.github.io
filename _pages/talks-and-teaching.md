@@ -10,12 +10,12 @@ nav_order: 3
 ## Talks
 
 - [Phenomenon of l-independence]({{ '/assets/pdf/talks/talk-1.pdf' | relative_url }}) — YRANT Bristol (2026)
-- **Symmetric Monoidal Categories** — Cambridge Number Theory Group (2026)
+- **Symmetric Monoidal Categories** — Cambridge Number Theory Study Group (2026)
 - **Phenomenon of l-independence** — Oxford Junior Number Theory Seminar (2026)
 - **The Langlands Progam, Motives, and l-independence** — Cambridge Junior Geometry Seminar (2025)
-- **Stack of Local Langlands Parameters** — Cambridge Number Theory Group (2025)
+- **Stack of Local Langlands Parameters** — Cambridge Number Theory Study Group (2025)
 - **Spin 7 is Unacceptable** — Cambridge Preprint Seminar (2025)
-- **The Classical Chabauty Method** — Cambridge Number Theory Group (2024)
+- **The Classical Chabauty Method** — Cambridge Number Theory Study Group (2024)
 - [Unlikely Intersections on Shimura Varieties]({{ '/assets/pdf/talks/talk-2.pdf' | relative_url }}) — schedule of study group I organised for the Cambridge Number Theory group in Michaelmas 2025.
 
 
@@ -33,3 +33,4 @@ I also offer private tutoring for STEP and interview practice.
 - [Lectures on the Langlands Program](https://arxiv.org/abs/hep-th/0512172) — A great introduction to the geometric Langlands correspondence by Edward Frenkel.
 - [Richard Chapling's](https://rc476.user.srcf.net/teaching.shtml) webpage — I highly recommend the extra notes, particularly for probability and measure theory.
 - [Natural Numbers Game](https://adam.math.hhu.de) — A fun introduction to formalisation in Lean!
+- [Step Support Programme](https://step.maths.org) - Lots of resources for preparation for STEP exams. 
