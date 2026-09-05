@@ -32,4 +32,4 @@ Hi! I am Suvir Rathore, currently a third year PhD student of Rong Zhou at the U
 
 You can find my CV [here]({{ '/assets/pdf/cv.pdf' | relative_url }}).
 
-Outside of maths, I love hiking in nature and stargazing. I particularly enjoy playing cricket, boardgames, and badminton!
+Outside of maths, I love hiking in nature and stargazing. I particularly enjoy playing cricket, badminton, and a variety of boardgames!
