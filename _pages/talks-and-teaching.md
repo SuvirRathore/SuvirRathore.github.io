@@ -21,7 +21,7 @@ nav_order: 3
 
 
 ## Courses Supervised
-
+I have supervised undergraduate and Part III (masters) students in the following subjects:
 - **IB Linear Algebra** — 2024-26.
 - **II Number Fields** — 2025-26.
 - **III Commutative Algebra** — 2025-26.
