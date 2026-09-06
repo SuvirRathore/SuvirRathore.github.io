@@ -14,7 +14,7 @@ To be added soon :)
 
 
 
-## Theses and Expository Writings:
+## Other Writings and Expositons:
 
 ##### 1. [The Local Langlands Correspondence for GLn]({{ '/assets/pdf/research/part-iii-essay.pdf' | relative_url }})
 
