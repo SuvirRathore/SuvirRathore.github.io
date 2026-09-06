@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am Suvir Rathore, currently a third year PhD student of [Rong Zhou](https://www.dpmms.cam.ac.uk/~rz240/) at the University of Cambridge. My research interests are in Arithmetic Geometry and Algebraic Number Theory, particularly on l-independence and varieties over finite fields.
+Hi! I am Suvir Rathore, currently a second year PhD student of [Rong Zhou](https://www.dpmms.cam.ac.uk/~rz240/) at the University of Cambridge. My research interests are in Arithmetic Geometry and Algebraic Number Theory, particularly on l-independence and varieties over finite fields.
 
 
 My [CV]({{ '/assets/pdf/suvir-rathore-cv-2026-09.pdf' | relative_url }}).
