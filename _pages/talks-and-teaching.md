@@ -34,3 +34,7 @@ I also offer private tutoring for STEP and interview practice.
 - [Richard Chapling's](https://rc476.user.srcf.net/teaching.shtml) webpage — I highly recommend the extra notes, particularly for probability and measure theory.
 - [Natural Numbers Game](https://adam.math.hhu.de) — A fun introduction to formalisation in Lean!
 - [Step Support Programme](https://step.maths.org) - Lots of resources for preparation for STEP exams. 
+
+## Friends
+- [Lucas Valle Thiele](https://vallethiele.github.io) - My academic brother
+- [Vishal Gupta](https://vg354.user.srcf.net) - University of Oxford
