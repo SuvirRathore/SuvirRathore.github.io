@@ -13,10 +13,11 @@ nav_order: 3
 - **Symmetric Monoidal Infinity Categories & Animated Rings** — Cambridge Number Theory Study Group (2026)
 - **Phenomenon of l-independence** — Oxford Junior Number Theory Seminar (2026)
 - **The Langlands Progam, Motives, and l-independence** — Cambridge Junior Geometry Seminar (2025)
+- [Unlikely Intersections on Shimura Varieties]({{ '/assets/pdf/talks/talk-2.pdf' | relative_url }}) — schedule of study group I organised for the Cambridge Number Theory group in Michaelmas 2025.
 - **Stack of Local Langlands Parameters** — Cambridge Number Theory Study Group (2025)
 - **Spin 7 is Unacceptable** — Cambridge Preprint Seminar (2025)
 - **The Classical Chabauty Method** — Cambridge Number Theory Study Group (2024)
-- [Unlikely Intersections on Shimura Varieties]({{ '/assets/pdf/talks/talk-2.pdf' | relative_url }}) — schedule of study group I organised for the Cambridge Number Theory group in Michaelmas 2025.
+
 
 
 ## Courses Supervised
