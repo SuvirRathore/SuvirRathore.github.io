@@ -16,11 +16,11 @@ To be added soon :)
 
 ## Theses and Expository Writings:
 
-##### [1. The Local Langlands Correspondence for GLn]({{ '/assets/pdf/research/part-iii-essay.pdf' | relative_url }})
+##### 1. [The Local Langlands Correspondence for GLn]({{ '/assets/pdf/research/part-iii-essay.pdf' | relative_url }})
 
 My Part III essay supervised by Dr Rong Zhou, DPMMS.
 
-##### [2. On Three-Dimensional Geometry and Knots]({{ '/assets/pdf/research/undergraduate-essay-1.pdf' | relative_url }})
+##### 2. [On Three-Dimensional Geometry and Knots]({{ '/assets/pdf/research/undergraduate-essay-1.pdf' | relative_url }})
 
 My second undergraduate essay supervised by [Dr Gareth Wilkes](https://www.dpmms.cam.ac.uk/~grw46/), DPMMS.
 
