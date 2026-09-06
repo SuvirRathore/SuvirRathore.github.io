@@ -10,7 +10,7 @@ nav_order: 3
 ## Talks
 
 - [Phenomenon of l-independence]({{ '/assets/pdf/talks/talk-1.pdf' | relative_url }}) — YRANT Bristol (2026)
-- **Symmetric Monoidal Infinity Categories & Animatied Rings** — Cambridge Number Theory Study Group (2026)
+- **Symmetric Monoidal Infinity Categories & Animated Rings** — Cambridge Number Theory Study Group (2026)
 - **Phenomenon of l-independence** — Oxford Junior Number Theory Seminar (2026)
 - **The Langlands Progam, Motives, and l-independence** — Cambridge Junior Geometry Seminar (2025)
 - **Stack of Local Langlands Parameters** — Cambridge Number Theory Study Group (2025)
