@@ -32,6 +32,6 @@ Hi! I am Suvir Rathore, currently a third year PhD student of [Rong Zhou](https:
 
 My [CV]({{ '/assets/pdf/suvir-rathore-cv-2026-09.pdf' | relative_url }}).
 
-Email: sr939@cam.ac.uk
+Email: [{{ site.data.socials.email }}](mailto:{{ site.data.socials.email }})
 
 Outside of maths, I love hiking in nature and stargazing. I particularly enjoy playing cricket, badminton, and a variety of boardgames!
