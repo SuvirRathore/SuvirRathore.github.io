@@ -38,7 +38,7 @@ I also offer private tutoring for STEP and interview practice.
 - [Lectures on the Langlands Program](https://arxiv.org/abs/hep-th/0512172) — a great introduction to the geometric Langlands correspondence by [Edward Frenkel](https://www.edwardfrenkel.com).
 - [Hard Arithmetic](https://ayoucis.wordpress.com) - a blog written by [Alex Youcis](https://alex-youcis.github.io) which serves as a gentle and intuitive introduction to various concepts in arithmetic geometry and neighbouring areas.
 - [Natural Numbers Game](https://adam.math.hhu.de) — a fun introduction to formalisation in Lean!
-- [Richard Chapling's](https://rc476.user.srcf.net/teaching.shtml) webpage — I highly recommend the extra handouts, particularly for probability and subjects around measure theory.
+- [Webpage](https://rc476.user.srcf.net/teaching.shtml) of Richard Chapling — I highly recommend the extra handouts, particularly for probability and subjects around measure theory.
 - [Step Support Programme](https://step.maths.org) - lots of resources for preparation for STEP exams. 
 
 ## Friends
