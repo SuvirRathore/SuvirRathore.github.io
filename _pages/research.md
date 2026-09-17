@@ -2,11 +2,10 @@
 layout: page
 title: Research
 permalink: /research/
-description: My Research Projects.
+description: My primary research interests concern studying compatible systems of l-adic representations attached to varieties over finite fields, utilising group theoretic methods and the underlying geometry, with its connection to the Langlands program over function fields, to deduce notions of l-indpendence of these families as predicted by the theory of motives.
 nav: true
 nav_order: 2
 ---
-My primary research interests concern studying compatible systems of l-adic representations attached to varieties over finite fields, utilising group theoretic methods and the underlying geometry, with its connection to the Langlands program over function fields, to deduce notions of l-indpendence of these families as predicted by the theory of motives.
 
 ## Publications/preprints:
 
